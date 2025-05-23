@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\yeimi\\source\\repos\\webapicrud\\webapicrud\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\yeimi\\source\\repos\\webapicrud\\webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\yeimi\\source\\repos\\webapicrud\\webapicrud\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\yeimi\\source\\repos\\webapicrud\\webapicrud\\models\\tallermotoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\models\\tallermotoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\yeimi\\source\\repos\\webapicrud\\webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7B00510-54F2-4464-8A39-3C2602A41604}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "WebApiCrud\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:31:11.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Program.cs",
+              "RelativeToolTip": "WebApiCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:36:59.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\appsettings.json",
+              "RelativeToolTip": "WebApiCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T23:31:21.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebApiCrud\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:30:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TallerMotosContext.cs",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Models\\TallerMotosContext.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Models\\TallerMotosContext.cs",
+              "ToolTip": "C:\\Users\\YEIMI\\source\\repos\\WebApiCrud\\WebApiCrud\\Models\\TallerMotosContext.cs",
+              "RelativeToolTip": "WebApiCrud\\Models\\TallerMotosContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:25:30.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
