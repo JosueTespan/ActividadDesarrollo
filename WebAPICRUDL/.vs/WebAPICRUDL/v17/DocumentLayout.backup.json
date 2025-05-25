@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|c:\\users\\josue\\source\\repos\\webapicrudl\\webapicrudl\\models\\tallermotoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|solutionrelative:webapicrudl\\models\\tallermotoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|c:\\users\\josue\\source\\repos\\webapicrudl\\webapicrudl\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|solutionrelative:webapicrudl\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|c:\\users\\josue\\source\\repos\\webapicrudl\\webapicrudl\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|solutionrelative:webapicrudl\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|c:\\users\\josue\\source\\repos\\webapicrudl\\webapicrudl\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|solutionrelative:webapicrudl\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|c:\\users\\josue\\source\\repos\\webapicrudl\\webapicrudl\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5197B1EF-59D5-4871-80FA-3B39541F4CB4}|WebAPICRUDL\\WebAPICRUDL.csproj|solutionrelative:webapicrudl\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TallerMotosContext.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Models\\TallerMotosContext.cs",
+              "RelativeDocumentMoniker": "WebAPICRUDL\\Models\\TallerMotosContext.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Models\\TallerMotosContext.cs",
+              "RelativeToolTip": "WebAPICRUDL\\Models\\TallerMotosContext.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAMwL8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:00:42.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "WebAPICRUDL\\Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Models\\Servicio.cs",
+              "RelativeToolTip": "WebAPICRUDL\\Models\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:58:20.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "WebAPICRUDL\\Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "WebAPICRUDL\\Controllers\\ServicioController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:45:55.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotoController.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Controllers\\MotoController.cs",
+              "RelativeDocumentMoniker": "WebAPICRUDL\\Controllers\\MotoController.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Controllers\\MotoController.cs",
+              "RelativeToolTip": "WebAPICRUDL\\Controllers\\MotoController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:11:42.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "WebAPICRUDL\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\WebAPICRUDL\\WebAPICRUDL\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "WebAPICRUDL\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:10:06.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
