@@ -15,7 +15,7 @@ function App() {
         <Route path="/editarcliente/:id" element={<EditarCliente />} />
         <Route path="/nuevocliente" element={<NuevoCliente />} />
         <Route path="/listamoto" element={<ListaMoto />} />
-        <Route path="/nuevamoto/:idCliente" element={<NuevaMoto />} />
+        <Route path="/nuevamoto" element={<NuevaMoto />} />
         <Route path="/nuevoservicio/:idCliente" element={<NuevoServicioCliente />} />
       </Routes>
     </BrowserRouter>
